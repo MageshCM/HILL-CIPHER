@@ -116,7 +116,7 @@ int main() {
 }
 ```
 ## OUTPUT
-<img width="629" height="345" alt="image" src="https://github.com/user-attachments/assets/9265a6f9-b445-449e-85bd-ce3055799c44" />
+<img width="718" height="335" alt="image" src="https://github.com/user-attachments/assets/1a80e89c-5e7e-4336-a2d0-396274d5b6b9" />
 
 ## RESULT
 Thus the implementation of Hill Cipher text is executed successfully.
